@@ -1,4 +1,4 @@
-# notebooks
+# Notebooks
 
 
 ## 1) 🚘Car Fuel Prediction EDA & Modelling
